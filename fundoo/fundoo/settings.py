@@ -103,10 +103,10 @@ CHANNEL_LAYERS = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'apurva',
+        'NAME': 'apex',
         'USER': 'admin',
-        'PASSWORD': 'sonali11093',
-        'HOST': 'sonali.c7n25d0bojay.us-east-1.rds.amazonaws.com',
+        'PASSWORD': 'apex1234',
+        'HOST': 'database-2.c7n25d0bojay.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
